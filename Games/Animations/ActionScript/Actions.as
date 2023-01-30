@@ -9,7 +9,7 @@ package {
         }
     }
 
-   public MovementManager {
+   public class MovementManager {
           public function MovementManager():void {
           var AI:str = "True"  
           trace(AI); //"True"
